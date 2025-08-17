@@ -1,3 +1,4 @@
 # Amazon_Clone
 
-This is a amazon clone , based on the amazon app navigation bar and the remaining structure.
+A full-featured E-commerce web application built using Django (backend) and Bootstrap (frontend), designed to simulate core features of platforms like Amazon.  
+This project demonstrates user authentication, role-based access, product management, and responsive UI design.  
